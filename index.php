@@ -1335,7 +1335,7 @@
                             </div>
                             <div class="footer__info-menu-link col l-3 c-6 m-3">
                                 <a href="#" class="footer__info-menu-links">
-                                    <span>Chính Sách Đổi Trả và Hoàn Tiền</span>
+                                    <span>Chính Sách Đổi Trả</span>
                                 </a>
                             </div>
                         </div>
