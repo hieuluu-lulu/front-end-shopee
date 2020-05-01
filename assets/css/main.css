@@ -1375,11 +1375,7 @@ i.home__product-item__like-icon-fill{
     padding: 42px 0 37px;  
     
 }
-.footer__info-menu{
-  display: flex;
-  justify-content: center;
-  margin-bottom: 40px;   
-}
+
 .footer__info-menu-link{
     display: flex;
     padding: 0 25px;
@@ -1388,6 +1384,7 @@ i.home__product-item__like-icon-fill{
     justify-content: center;
     text-align: center;
     margin: 20px auto;
+    -webkit-tap-highlight-color: transparent;
    
 }
 .footer__info-menu-link:last-child{
