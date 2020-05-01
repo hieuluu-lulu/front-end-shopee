@@ -1387,7 +1387,7 @@ i.home__product-item__like-icon-fill{
     -webkit-tap-highlight-color: transparent;
    
 }
-.footer__info-menu-link:nth-of-type(3n){
+.footer__info-menu-link:nth-of-type(2n){
     border: none;
 }
 .footer__info-menu-link:last-child{
